@@ -20,9 +20,11 @@
   >[Portugol Web Studio](https://dgadelha.github.io/Portugol-Webstudio/)    
  
 ### Atividades
-  >[Atividade Pseudocódigo Kahoot]()   
+  >[Atividade Pseudocódigo Kahoot](https://kahoot.it/challenge/06466324?challenge-id=c04acb90-1ca4-463b-871d-8ea44b4c636f_1676513543949)   
   >[Atividade para testar conhecimentos](https://ooffoo.wordpress.com/portugol-ide/listao-exercicios-portugol/)   
   >[Atividade para testar conhecimentos](https://pt.slideshare.net/GabrielFaustino/lista-de-exerccios-em-portugol)         
 
 ### Duvidas e sugestões
-  >[Email](daosptc@gmail.com)
+  >Email para contato: daosptc@gmail.com   
+  >Email para contato: diego.silva@mg.senac.br    
+  >[Envie sua duvida aqui!](https://github.com/daos12/pseudocodigo/issues/new)     
